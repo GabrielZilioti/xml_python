@@ -1,0 +1,44 @@
+<market>
+    <stock>
+        <symbol>MSFT</symbol>
+        <companyName>Microsoft Corporation</companyName>
+        <category>Technology</category>
+        <price>258.36</price>
+        <volume>28903450</volume>
+    </stock>
+    <stock>
+        <symbol>AAPL</symbol>
+        <companyName>Apple Inc.</companyName>
+        <category>Technology</category>
+        <price>134.43</price>
+        <volume>66015878</volume>
+    </stock>
+    <stock>
+        <symbol>AMZN</symbol>
+        <companyName>Amazon.com, Inc.</companyName>
+        <category>eCommerce</category>
+        <price>3312.53</price>
+        <volume>3356400</volume>
+    </stock>
+    <stock>
+        <symbol>GOOGL</symbol>
+        <companyName>Google LLC</companyName>
+        <category>Technology</category>
+        <price>2302.40</price>
+        <volume>1330635</volume>
+    </stock>
+    <stock>
+        <symbol>NFLX</symbol>
+        <companyName>Netflix, Inc.</companyName>
+        <category>Entertainment</category>
+        <price>503.06</price>
+        <volume>2755423</volume>
+    </stock>
+    <stock>
+        <symbol>TSLA</symbol>
+        <companyName>Tesla, Inc.</companyName>
+        <category>Automotive</category>
+        <price>677.02</price>
+        <volume>29606940</volume>
+    </stock>
+</market>
